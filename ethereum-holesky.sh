@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://g.w.lavanet.xyz:443/gateway/sep1/rpc-http/eb77138b6efdccfc6fa5bcfced23c7ba"
+RPC_URL="https://g.w.lavanet.xyz:443/gateway/hol1/rpc-http/eb77138b6efdccfc6fa5bcfced23c7ba"
 
 OUTPUT_DIR="logs"
 
@@ -11,9 +11,9 @@ if [ $? -eq 0 ]; then
         mkdir "$OUTPUT_DIR"
     fi
     
-    echo "$eth_data" >> "$OUTPUT_DIR/ethereum.txt"
+    echo "$eth_data" >> "$OUTPUT_DIR/ethereum-holesky.txt"
     
-    echo "Ethereum data fetched and saved to $OUTPUT_DIR/ethereum.txt."
+    echo "Ethereum data fetched and saved to $OUTPUT_DIR/ethereum-holesky.txt."
 else
     echo "Failed to fetch Ethereum data."
 fi
