@@ -318,3 +318,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0xb3dc"}
 {"jsonrpc":"2.0","id":1,"result":"0xb96d"}
 {"jsonrpc":"2.0","id":1,"result":"0x103c1"}
+{"jsonrpc":"2.0","id":1,"result":"0x1106"}
