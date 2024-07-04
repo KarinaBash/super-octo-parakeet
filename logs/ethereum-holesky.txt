@@ -350,3 +350,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x1603c4"}
 {"jsonrpc":"2.0","id":1,"result":"0x31eb"}
 {"jsonrpc":"2.0","id":1,"result":"0x306c"}
+{"jsonrpc":"2.0","id":1,"result":"0x7f1a00"}
