@@ -503,3 +503,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x1cb1"}
 {"jsonrpc":"2.0","id":1,"result":"0x35a2"}
 {"jsonrpc":"2.0","id":1,"result":"0x2792"}
+{"jsonrpc":"2.0","id":1,"result":"0x241c"}
