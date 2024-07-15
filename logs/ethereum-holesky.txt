@@ -868,3 +868,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x502f6e"}
 {"jsonrpc":"2.0","id":1,"result":"0x564"}
 {"jsonrpc":"2.0","id":1,"result":"0x3ef"}
+{"jsonrpc":"2.0","id":1,"result":"0x3f0"}
