@@ -1281,3 +1281,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x779700"}
 {"jsonrpc":"2.0","id":1,"result":"0x128ff"}
 {"jsonrpc":"2.0","id":1,"result":"0x1322b"}
+{"jsonrpc":"2.0","id":1,"result":"0xff06"}
