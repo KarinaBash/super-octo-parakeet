@@ -2388,3 +2388,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x1648a"}
 {"jsonrpc":"2.0","id":1,"result":"0x1648a"}
 {"jsonrpc":"2.0","id":1,"result":"0x1cc0"}
+{"jsonrpc":"2.0","id":1,"result":"0x349"}
