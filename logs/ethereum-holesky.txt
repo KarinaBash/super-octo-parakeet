@@ -2507,3 +2507,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x12015"}
 {"jsonrpc":"2.0","id":1,"result":"0x1176f"}
 {"jsonrpc":"2.0","id":1,"result":"0x20a3c5d"}
+{"jsonrpc":"2.0","id":1,"result":"0xcfe"}
