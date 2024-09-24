@@ -44853,3 +44853,4 @@
 {"jsonrpc":"2.0","id":"1","result":203928}
 {"jsonrpc":"2.0","id":"1","result":203941}
 {"error":"{\"Error_GUID\":\"4249506672412101217\",\"Error\":\"failed processing responses from providers ErrMsg: failed relay, insufficient results ErrMsg: rpc error: code = Code(670) desc = Tried to Report to an older epoch: rpc error: code = Code(670) desc = Tried to Report to an older epoch {GUID:4249506672412101217,endpoint:STRKSjsonrpc}: failed relay, insufficient results ErrMsg: rpc error: code = Code(670) desc = Tried to Report to an older epoch: rpc error: code = Code(670) desc = Tried to Report to an older epoch\"}"}
+{"jsonrpc":"2.0","id":"1","result":204138}
