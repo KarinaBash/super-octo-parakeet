@@ -44926,3 +44926,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x14d96ed218"}
 {"jsonrpc":"2.0","id":1,"result":"0x20b1cd2952"}
 {"jsonrpc":"2.0","id":1,"result":"0x36db68fb0f"}
+error code: 502
