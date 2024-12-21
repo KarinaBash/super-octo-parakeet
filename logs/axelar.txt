@@ -47704,3 +47704,9 @@
 }
 {"error":"{\"Error_GUID\":\"4244951802451227774\",\"Error\":\"failed processing responses from providers ErrMsg: failed relay, insufficient results ErrMsg: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported {GUID:4244951802451227774,endpoint:AXELARTrest}: failed relay, insufficient results ErrMsg: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported\"}"}
 {"error":"{\"Error_GUID\":\"9205573979424523773\",\"Error\":\"failed processing responses from providers ErrMsg: failed relay, insufficient results ErrMsg: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported {GUID:9205573979424523773,endpoint:AXELARTrest}: failed relay, insufficient results ErrMsg: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported: rpc error: code = Unknown desc = codespace APINotSupported Error code 900: api not supported\"}"}
+{
+  "code": 12,
+  "message": "Not Implemented",
+  "details": [
+  ]
+}
