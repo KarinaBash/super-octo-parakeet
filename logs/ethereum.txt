@@ -53644,3 +53644,10 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x774575"}
 {"jsonrpc":"2.0","id":1,"result":"0x2146a45"}
 {"jsonrpc":"2.0","id":1,"result":"0x202ecba"}
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx/1.28.0</center>
+</body>
+</html>
