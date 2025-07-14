@@ -15244,3 +15244,10 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0xf424b"}
 {"jsonrpc":"2.0","id":1,"result":"0xf424c"}
 {"jsonrpc":"2.0","id":1,"result":"0xf424d"}
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx/1.28.0</center>
+</body>
+</html>
